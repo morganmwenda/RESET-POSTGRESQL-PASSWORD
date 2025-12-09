@@ -190,4 +190,12 @@ If you encounter issues:
 
 ---
 
-**⚠️ Disclaimer**: This tool is for legitimate password recovery on systems you own or have permission to access. Always follow your organization's security policies.
+## ⚠️ Disclaimer
+
+- This tool is for legitimate password recovery on systems you own or have permission to access. Always follow your organization's security policies.
+
+## ⚖️ Denial of Liability
+
+- The tool is provided "as is" without any warranties, express or implied. The creator, developer, and distributors of this tool shall not be held liable for any direct, indirect, incidental,     special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however        caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of this tool, even if advised of      the possibility of such damage.
+
+- The user is solely responsible for verifying their legal right to use this tool on any given system.
